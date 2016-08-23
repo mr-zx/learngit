@@ -4,6 +4,6 @@ Git is free software distributed under the GPL.
 第5次修改
 第6次修改
 使用分支
-create new branch
+create new branch 改
 解决冲突案例
 20160823
