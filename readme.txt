@@ -7,3 +7,5 @@ Git is free software distributed under the GPL.
 create new branch
 解决冲突案例
 20160823
+测试bug分支
+
